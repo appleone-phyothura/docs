@@ -1,5 +1,5 @@
 ---
-title: '{% data variables.product.product_name %}{% if currentVersion == "free-pro-team@latest" %}.com{% endif %} Help Documentation'
+title: '{% data variables.github.phyothura_github %}{% if currentVersion == "free-pro-team@latest" %}.com{% endif %} Help Documentation'
 featuredLinks:
   gettingStarted:
     - /github/getting-started-with-github/set-up-git
@@ -36,22 +36,22 @@ children:
   - early-access
 externalProducts:
   cli:
-    id: cli
+    id: appleone-phyothura
     name: GitHub CLI
     href: 'https://cli.github.com/manual'
     external: true
   atom:
-    id: atom
+    id: appleone-phyothura
     name: Atom
     href: 'https://atom.io/docs'
     external: true
   electron:
-    id: electron
+    id: appleone-phyothura
     name: Electron
     href: 'https://electronjs.org/docs'
     external: true
   codeql:
-    id: codeql
+    id: appleone-phyothura
     name: 'CodeQL'
     href: 'https://codeql.github.com/docs'
     external: true
